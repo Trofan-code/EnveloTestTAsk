@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyArithmeticLibraryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-02-04T05:40:44" hostname="JANE" time="0.03">
+  <properties/>
+  <testcase name="Simple sum should work" classname="MyArithmeticLibraryTest" time="0.013"/>
+  <testcase name="Simple subtraction should work" classname="MyArithmeticLibraryTest" time="0.0"/>
+  <testcase name="Simple multiplication should work" classname="MyArithmeticLibraryTest" time="0.0"/>
+  <testcase name="repetition 1 of 5" classname="MyArithmeticLibraryTest" time="0.001"/>
+  <testcase name="repetition 2 of 5" classname="MyArithmeticLibraryTest" time="0.0"/>
+  <testcase name="repetition 3 of 5" classname="MyArithmeticLibraryTest" time="0.0"/>
+  <testcase name="repetition 4 of 5" classname="MyArithmeticLibraryTest" time="0.0"/>
+  <testcase name="repetition 5 of 5" classname="MyArithmeticLibraryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
